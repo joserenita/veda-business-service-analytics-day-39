@@ -1,3 +1,11 @@
+# 💼 Veda Technology Business & Service Analytics
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://veda-business-service-analytics-day-39-vkzbebay8rnxzma7bypmue.streamlit.app)[cite: 8]
+
+## 🌐 Live Application & Deployment
+👉 **Access the Live Dashboard:** [https://veda-business-service-analytics-day-39-vkzbebay8rnxzma7bypmue.streamlit.app](https://veda-business-service-analytics-day-39-vkzbebay8rnxzma7bypmue.streamlit.app)[cite: 8]
+
+---
 # 💼 Veda Technology Business & Service Analytics (Major Capstone Project)
 
 ## 🌐 Live Web Application
